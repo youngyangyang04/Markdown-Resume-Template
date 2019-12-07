@@ -4,15 +4,15 @@
 
 ## 个人信息 
 
-* 性 别：男 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;  年 龄：22  
+* 性 别：男 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;  年 龄：25  
 * 手 机：134XXXX3216 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 邮 箱：abcd@163.com    
 * 专 业：计算机科学与计算 &emsp;&emsp;&emsp;&emsp;&emsp; 应聘岗位：研发工程师
 
 ## 工作及教育经历
 
-* 前公司 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 2017.8~至今 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 事业群名字-部门名字
-* XXXX大学 &emsp;&emsp;&emsp;&emsp; 2014.9~2017.7 &emsp;&emsp;&emsp;&emsp;&emsp; 计算机科学与技术专业-研究生
-* XXXX大学&emsp;&emsp;&emsp;&emsp;&emsp; 2010.9~2014.7 &emsp;&emsp;&emsp;&emsp;&emsp;  软件工程专业-本科
+* 前公司   | 2019.8~至今   | 事业群名字-部门名字
+* XXXX大学 | 2017.9~2019.7 | 计算机科学与技术专业-研究生
+* XXXX大学 | 2013.9~2017.7 | 计算机科学与技术专业-本科
 
 ## 专业技能
 
@@ -37,7 +37,7 @@
 ## 获奖经历
 * XXX 优秀新人
 * XXX 学生社团优秀干部
-* ACM 竞赛 XXX 奖
+* 竞赛 XXX 奖
 
 ## 个人账号 
 * blog 地址 
