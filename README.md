@@ -47,7 +47,7 @@
 * 喜欢钻研技术 等等
 * 性格开朗，喜欢跳舞，做个主持人 等等 
 
-> 简历的word版本，可以在我的公众号「代码随想录」中，后台回复：「简历模板」来获取
+> 简历的word版本，可以在我的公众号[代码随想录](https://img-blog.csdnimg.cn/20200815195519696.png)中，后台回复：「简历模板」来获取
 
 > leetcode刷题攻略：https://github.com/youngyangyang04/leetcode-master 
 
