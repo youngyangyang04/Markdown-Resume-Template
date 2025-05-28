@@ -51,7 +51,7 @@
 
 卡码简历：[https://jianli.kamacoder.com](https://jianli.kamacoder.com/)
 
-![](https://file.kamacoder.com/pics/202505281036854.png)
+![](https://file1.kamacoder.com/i/web/2025-05-28_10-38-55.jpg)
 
 可以轻松制作出简洁高质量的简历。
 
