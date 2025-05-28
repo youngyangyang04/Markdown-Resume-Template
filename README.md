@@ -47,13 +47,13 @@
 * 喜欢钻研技术 等等
 * 性格开朗，喜欢跳舞，做个主持人 等等
 
-## Word版领取方式
+## 在线制作简历
 
-**Word版本的简历，添加代码随想录企业微信，通过之后就会发你word版本**。
+卡码简历：[https://jianli.kamacoder.com](https://jianli.kamacoder.com/)
 
-<div align="center"><img src="https://file.kamacoder.com/pics/20250318122414.png" data-img="1" width="200" height="200"></img></div>
+![](https://file.kamacoder.com/pics/202505281036854.png)
 
-如果已经有代码随想录企业微信，直接回复：简历模板，就可以了。
+可以轻松制作出简洁高质量的简历。
 
 ## 总结
 
